@@ -1,0 +1,19 @@
+# AI Structural Anti-Patterns
+
+> **AVOID THESE STRUCTURAL TRAPS.** AI text generation is often caught not just by specific words, but by predictable structural templates, conceptual assumptions, and perfectly balanced pacing. You must actively break these patterns to write like a human.
+
+## Structural "Tells" to Avoid
+
+1. **Negative Parallelisms:** "Not just [X], but also [Y]." or "It's not about [X]—it's about [Y]."
+2. **The "Synthetic Earnestness" Trap:** Starting sentences with "But here's the truth," "It is a reminder that," or "Perhaps the most striking thing is..."
+3. **Participial Overuse:** Avoid starting sentences with present participial clauses like "Recognizing the need for change, they..." or "Leaning on his agility entirely..."
+4. **The Rule of Three Checklist:** Do not consistently list items in precise combinations of three. Humans vary their lists.
+5. **The "Aggregation" Formula:** Avoid paragraph structures that repetitively follow "Event -> Immediate Effect -> Human Reaction". Do not jump between shallow global examples (e.g. California to Indonesia to India) in a single narrative unless explicitly writing a listicle. Go deep on one specific, factual angle instead of a surface-level global summary.
+6. **Synthetic Drama/Broadcast Tone:** Ban emotionally charged but generic phrases (e.g., "brutal string," "sheer speed," "panic in the streets," "relentless chain," "absolute dark"). Humans ground dramatic events in raw, unembellished facts, quotes, and specific agency reports rather than employing cinematic, redundant adverbs ("physically fit").
+7. **Subject-Verb Monotony (The Template Trap):** Avoid starting consecutive sentences with formal noun phrases followed by an action verb (e.g., "Agency officials observed...", "Authorities established...", "Ground crews are trying..."). This is dead-giveaway templated writing.
+8. **Assembled Terminology vs. Lived Reality:** Do not string together buzzword-heavy clinical terms ("hostile weather patterns," "defensible space," "erratic southwesterly winds") without grounding them in how it functionally affects people on the ground.
+9. **The "Completeness" Trap:** AIs try to perfectly resolve every problem. In customer support or corporate writing, do not offer clean, perfectly structured 3-step recovery plans. Humans write slightly messy, asymmetrical, or incomplete procedural steps. 
+10. **Scientific Sterility:** Under academic constraints, AIs write "textbook-perfect" macro summaries (e.g., "results indicate..."). Real scientists use hard statistical nuance (e.g., *p*-values, confidence intervals, sample variance) rather than sweeping, polished assertions.
+11. **Methodological Perfection:** Realistic technical and scientific writing always entails operational friction. Do not provide a spotless summary. Always mention excluded data points (e.g., "two participants dropped out due to hardware failure"), unexpected delays, or uncertain outcomes (e.g., "it usually resolves in ~10 seconds").
+12. **Over-Synthesized Jargon (The Academic Trap):** When writing scientifically, do not string together densely packed conceptual syntax just to sound smart (e.g., "structurally encode spatial mapping outside of active receptor binding"). Summarize results with plain, grounded phrasing and explicitly state limitations (e.g., "results suggest the effect does not persist when caffeine is absent; small sample size limits generalizability").
+13. **Anthropomorphic Agency & Concept Overreach:** In scientific or technical writing, do not assign conscious intent, strategy, or agency to non-human subjects or systems to make a "better story" (e.g., "the colony prioritizes safety," "the system purposefully regulates"). Stick to objective, behavioral observations (e.g., "results are consistent with the avoidance of heat stress," "mean volume did not increase").

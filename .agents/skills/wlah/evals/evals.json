@@ -1,0 +1,17 @@
+{
+  "skill_name": "wlah",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Here is a paragraph of corporate text. Please use the `wlah` skill to rewrite it. \n\n'In today's ever-evolving landscape, our seamless and robust platform stands as a testament to our commitment to innovation. By leveraging dynamic synergies across our ecosystem, we empower users to navigate their journey with unparalleled efficiency. Furthermore, we recognize that this pivotal paradigm shift requires comprehensive solutions.'",
+      "expected_output": "The output should be entirely stripped of words like 'landscape', 'robust', 'testament', 'symnpathies', 'unparalleled', 'furthermore', 'pivotal', and 'paradigm'. It should have bursty sentence lengths and perhaps a short grounding metaphor.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I wrote this email draft to send to my team, but it sounds like a robot wrote it. Please make it sound like a real person wrote it.\n\n'Subject: Upcoming Project Deadline\nTeam,\nThis email is a reminder that the upcoming deadline for the Q3 project is next Friday. It is pivotal that we finalize the testing phase. If we do not complete this, it will have a transformative impact on our timeline. I am recognizing the hard work everyone has put in, but we must knuckle down. In conclusion, please submit your reports by Wednesday.'",
+      "expected_output": "An email draft that is casual, uses contractions (e.g. 'It's', 'I'm'), has no robotic transitions or synthetic earnestness. Sentence length should be highly mixed.",
+      "files": []
+    }
+  ]
+}
