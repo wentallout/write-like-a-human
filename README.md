@@ -16,6 +16,20 @@ WLAH breaks the "AI writing style" by:
 
 ---
 
+### How to Install
+
+You can add WLAH to your project using the one-command installer:
+
+```bash
+npx skills add wentallout/write-like-a-human --skill wlah
+```
+
+**Manual Installation:**
+1. Clone this repository.
+2. Copy the `.agents/skills/wlah` directory into your project's `.agents/skills/` folder.
+
+---
+
 ### How to Use
 
 Simply include the keyword **`wlah`** in your prompt. For the best results, define your intended **length** and **tone**.
