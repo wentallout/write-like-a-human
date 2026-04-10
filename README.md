@@ -2,7 +2,37 @@
 
 **Strip the machine, keep the mess.**
 
-Mention `wlah` in your prompt to stop writing like a robot.
+---
+
+### What is WLAH?
+
+AI is too perfect. It’s clear, it’s structured, and it’s boring. Humans are the opposite—we’re messy, opinionated, and we get oddly specific about things that don't matter.
+
+WLAH breaks the "AI writing style" by:
+
+- **Killing the fluff.** If a sentence exists just to explain the _next_ sentence, it's gone. No more "In conclusion" or "Furthermore."
+- **Adding friction.** Real life is full of broken gear and bad Wi-Fi. We inject those details to ground the writing.
+- **Breaking the rhythm.** AI loves even sentence lengths. We mix long, flowing thoughts with short punches.
+
+---
+
+### How to Use
+
+Simply include the keyword **`wlah`** in your prompt. For the best results, define your intended **length** and **tone**.
+
+**Example Prompt:**
+
+> "Review this React component using **wlah**. Keep it under 200 words and make it sound like a frustrated senior dev."
+
+### Professional Grade: Your Personal Stylome
+
+WLAH is most effective when it learns _how you talk_. You can prime the model by providing samples of your own writing.
+
+**Example Prompt:**
+
+> "I'm going to provide 3 samples of my personal blog posts. First, analyze my **stylome** (my rhythm, favorite quirks, and tone). Then, use **wlah** to write a new post about [Topic] using my exact voice."
+
+---
 
 ### Before vs. After
 
@@ -12,23 +42,11 @@ Mention `wlah` in your prompt to stop writing like a robot.
 
 ---
 
-### Why this exists
-
-AI is too perfect. It’s clear, it’s structured, and it’s boring. Humans are the opposite—we’re messy, opinionated, and we get oddly specific about things that don't matter.
-
-WLAH breaks the "AI register" by:
-
-- **Killing the fluff.** If a sentence exists just to explain the _next_ sentence, it's gone. No more "In conclusion" or "Furthermore."
-- **Adding friction.** Real life is full of broken gear and bad Wi-Fi. We inject those details to ground the writing.
-- **Breaking the rhythm.** AI loves even sentence lengths. We mix long, flowing thoughts with short punches.
-
----
-
 ### Shortcuts
 
-- **`/skills/wlah/`**: The core instructions.
-- **`/references/`**: Lists of banned words (like _vibrant_ or _testament_) and patterns to avoid.
-- **`analyze_stylome.py`**: A tool to analyze your own writing so the AI can clone your voice.
+- **[wlah/SKILL.md](.agents/skills/wlah/SKILL.md)**: The core H.U.M.A.N protocol.
+- **[references/](.agents/skills/wlah/references/)**: Lists of banned "AI words" and structural anti-patterns.
+- **[analyze_stylome.py](.agents/skills/wlah/scripts/analyze_stylome.py)**: The script used to extract stylistic metrics.
 
 ---
 
