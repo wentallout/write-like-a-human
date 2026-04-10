@@ -1,10 +1,9 @@
 # Write Like A Human (WLAH)
 
-**Strip the machine, keep the mess.**
 
 ---
 
-### What is WLAH?
+## What is WLAH?
 
 AI is too perfect. It’s clear, it’s structured, and it’s boring. Humans are the opposite—we’re messy, opinionated, and we get oddly specific about things that don't matter.
 
@@ -16,7 +15,7 @@ WLAH breaks the "AI writing style" by:
 
 ---
 
-### How to Install
+## How to Install
 
 You can add WLAH to your project using the one-command installer:
 
@@ -30,7 +29,7 @@ npx skills add wentallout/write-like-a-human --skill wlah
 
 ---
 
-### How to Use
+## How to Use
 
 Simply include the keyword **`wlah`** in your prompt. For the best results, define your intended **length** and **tone**.
 
@@ -38,7 +37,7 @@ Simply include the keyword **`wlah`** in your prompt. For the best results, defi
 
 > "Review this React component using **wlah**. Keep it under 200 words and make it sound like a frustrated senior dev."
 
-### Professional Grade: Your Personal Stylome
+## Professional Grade: Your Personal Stylome
 
 WLAH is most effective when it learns _how you talk_. You can prime the model by providing samples of your own writing.
 
@@ -48,7 +47,7 @@ WLAH is most effective when it learns _how you talk_. You can prime the model by
 
 ---
 
-### Before vs. After
+## Before vs. After
 
 | **Standard AI**                                                                                                                        | **WLAH Humanized**                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
@@ -56,7 +55,7 @@ WLAH is most effective when it learns _how you talk_. You can prime the model by
 
 ---
 
-### Shortcuts
+## Shortcuts
 
 - **[wlah/SKILL.md](.agents/skills/wlah/SKILL.md)**: The core H.U.M.A.N protocol.
 - **[references/](.agents/skills/wlah/references/)**: Lists of banned "AI words" and structural anti-patterns.
@@ -64,7 +63,7 @@ WLAH is most effective when it learns _how you talk_. You can prime the model by
 
 ---
 
-### Credits & Citations
+## Credits & Citations
 
 - **Wikipedia Field Guide:** Logic for our blocklists and anti-patterns comes from the [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) community guide.
 - **The Human Stylome:** Our focus on linguistic volatility is inspired by research into the ["human stylome"](https://www.tandfonline.com/doi/abs/10.1080/09296170500055350) (Van Halteren et al., 2005).
