@@ -31,7 +31,7 @@ Simply include the keyword **`wlah`** in your prompt. For the best results, defi
 
 > "Review this React component using **wlah**. Keep it under 200 words and make it sound like a frustrated senior dev."
 
-## Professional Grade: Your Personal Stylome
+## Make WLAH talks like you
 
 WLAH is most effective when it learns _how you talk_. You can prime the model by providing samples of your own writing.
 
