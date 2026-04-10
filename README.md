@@ -1,8 +1,5 @@
 # Write Like A Human (WLAH)
 
-
----
-
 ## What is WLAH?
 
 AI is too perfect. It’s clear, it’s structured, and it’s boring. Humans are the opposite—we’re messy, opinionated, and we get oddly specific about things that don't matter.
@@ -13,8 +10,6 @@ WLAH breaks the "AI writing style" by:
 - **Adding friction.** Real life is full of broken gear and bad Wi-Fi. We inject those details to ground the writing.
 - **Breaking the rhythm.** AI loves even sentence lengths. We mix long, flowing thoughts with short punches.
 
----
-
 ## How to Install
 
 You can add WLAH to your project using the one-command installer:
@@ -24,10 +19,9 @@ npx skills add wentallout/write-like-a-human --skill wlah
 ```
 
 **Manual Installation:**
+
 1. Clone this repository.
 2. Copy the `.agents/skills/wlah` directory into your project's `.agents/skills/` folder.
-
----
 
 ## How to Use
 
@@ -45,23 +39,17 @@ WLAH is most effective when it learns _how you talk_. You can prime the model by
 
 > "I'm going to provide 3 samples of my personal blog posts. First, analyze my **stylome** (my rhythm, favorite quirks, and tone). Then, use **wlah** to write a new post about [Topic] using my exact voice."
 
----
-
 ## Before vs. After
 
 | **Standard AI**                                                                                                                        | **WLAH Humanized**                                                                                          |
 | :------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
 | "It is important to note that coffee cultivation is a complex process. Furthermore, the aroma is often described as rich and vibrant." | "Coffee is a pain to grow. My first batch smelled like burnt rubber and regret, but at least it felt real." |
 
----
-
 ## Shortcuts
 
 - **[wlah/SKILL.md](.agents/skills/wlah/SKILL.md)**: The core H.U.M.A.N protocol.
 - **[references/](.agents/skills/wlah/references/)**: Lists of banned "AI words" and structural anti-patterns.
 - **[analyze_stylome.py](.agents/skills/wlah/scripts/analyze_stylome.py)**: The script used to extract stylistic metrics.
-
----
 
 ## Credits & Citations
 
