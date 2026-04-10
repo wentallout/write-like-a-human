@@ -30,4 +30,11 @@ WLAH breaks the "AI register" by:
 - **`/references/`**: Lists of banned words (like _vibrant_ or _testament_) and patterns to avoid.
 - **`analyze_stylome.py`**: A tool to analyze your own writing so the AI can clone your voice.
 
-Inspired by [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing).
+---
+
+### Credits & Citations
+
+- **Wikipedia Field Guide:** Logic for our blocklists and anti-patterns comes from the [Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) community guide.
+- **The Human Stylome:** Our focus on linguistic volatility is inspired by research into the ["human stylome"](https://www.tandfonline.com/doi/abs/10.1080/09296170500055350) (Van Halteren et al., 2005).
+- **Personality Modeling:** Techniques for injecting soul into prose are informed by the [PERSONAGE system](https://cljournal.org/archives/v37/v37n3.pdf) (Mairesse & Walker, 2011).
+- **Machine-in-the-Loop:** Our philosophy on human-agent collaboration draws from [Creative Writing with a Machine in the Loop](https://arxiv.org/abs/1801.10181) (Clark et al., 2018).
