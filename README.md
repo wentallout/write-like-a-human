@@ -57,3 +57,4 @@ WLAH is most effective when it learns _how you talk_. You can prime the model by
 - **The Human Stylome:** Our focus on linguistic volatility is inspired by research into the ["human stylome"](https://www.tandfonline.com/doi/abs/10.1080/09296170500055350) (Van Halteren et al., 2005).
 - **Personality Modeling:** Techniques for injecting soul into prose are informed by the [PERSONAGE system](https://cljournal.org/archives/v37/v37n3.pdf) (Mairesse & Walker, 2011).
 - **Machine-in-the-Loop:** Our philosophy on human-agent collaboration draws from [Creative Writing with a Machine in the Loop](https://arxiv.org/abs/1801.10181) (Clark et al., 2018).
+- [humanizer](https://skills.sh/softaworks/agent-toolkit/humanizer)
